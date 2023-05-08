@@ -6,6 +6,7 @@
   - [Firewall Log Analysis Automation](https://github.com/macolincolncybersec/Firewall-Log-Analysis/blob/master/Firewall%20Log%20Analysis.py)
   - [Network Log Analysis Automation](https://github.com/macolincolncybersec/Network-Log-Analysis/blob/master/NetworkLogAnalysis.py)
   - [Nmap Vulnerability Assessment Automation](https://github.com/macolincolncybersec/Nmap-Vulnerability-Assessment/blob/master/main.py)
+  - [OpenVAS Vulnerability Assessment Automation](https://github.com/macolincolncybersec/OpenVAS-Vulnerability-Assessment/blob/master/OpenVAS%20Vulnerability%20Assessment.py)
   <h2>📺 Cyber Security Youtube</h2>
 
 
