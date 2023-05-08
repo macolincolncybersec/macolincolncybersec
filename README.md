@@ -7,6 +7,7 @@
   - [Network Log Analysis Automation](https://github.com/macolincolncybersec/Network-Log-Analysis/blob/master/NetworkLogAnalysis.py)
   - [Nmap Vulnerability Assessment Automation](https://github.com/macolincolncybersec/Nmap-Vulnerability-Assessment/blob/master/main.py)
   - [OpenVAS Vulnerability Assessment Automation](https://github.com/macolincolncybersec/OpenVAS-Vulnerability-Assessment/blob/master/OpenVAS%20Vulnerability%20Assessment.py)
+  - [Nessus Vulnerability Assessment Automation](https://github.com/macolincolncybersec/Nessus-Vulnerability-Automation/blob/master/Nessus-Vulnerability-Scan.py)
   <h2>📺 Cyber Security Youtube</h2>
 
 
